@@ -9,4 +9,7 @@ Setting mysql server
     mysql: sudo yum install mysql-server
     start: sudo systemctl start mysqld
     
+# 2. Using
+    see more: https://www.linode.com/docs/databases/mysql/how-to-install-mysql-on-centos-7
+    
     
